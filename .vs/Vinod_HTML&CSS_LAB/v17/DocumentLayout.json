@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\Vertical_Bar_Graph\\Vertical_bar_graph.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vertical_Bar_Graph\\Vertical_bar_graph.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\gmail_login_form\\gmail_login_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gmail_login_form\\gmail_login_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\Navigation_Menu_Bar\\Navigation_menu_bar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Navigation_Menu_Bar\\Navigation_menu_bar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vertical_bar_graph.html",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\Vertical_Bar_Graph\\Vertical_bar_graph.html",
+              "RelativeDocumentMoniker": "Vertical_Bar_Graph\\Vertical_bar_graph.html",
+              "ToolTip": "D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\Vertical_Bar_Graph\\Vertical_bar_graph.html",
+              "RelativeToolTip": "Vertical_Bar_Graph\\Vertical_bar_graph.html",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-18T17:50:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gmail_login_form.html",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\gmail_login_form\\gmail_login_form.html",
+              "RelativeDocumentMoniker": "gmail_login_form\\gmail_login_form.html",
+              "ToolTip": "D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\gmail_login_form\\gmail_login_form.html",
+              "RelativeToolTip": "gmail_login_form\\gmail_login_form.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-18T17:48:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Navigation_menu_bar.html",
+              "DocumentMoniker": "D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\Navigation_Menu_Bar\\Navigation_menu_bar.html",
+              "RelativeDocumentMoniker": "Navigation_Menu_Bar\\Navigation_menu_bar.html",
+              "ToolTip": "D:\\GreatLearning_Module\\HTML AND CSS\\Vinod_HTML\u0026CSS_LAB\\Navigation_Menu_Bar\\Navigation_menu_bar.html",
+              "RelativeToolTip": "Navigation_Menu_Bar\\Navigation_menu_bar.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-18T17:46:17.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
